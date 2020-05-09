@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Hey! This is my slide, stay 6 feet away.
 Use the left arrow to go back!
